@@ -1,0 +1,21 @@
+{
+  "name": "vx link examples",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "vx:example"
+  ],
+  "homepage": "https://codesandbox.io/s/n3w687vmqj",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0",
+    "d3-hierarchy": "1.1.5",
+    "classnames": "2.2.5",
+    "@vx/shape": "0.0.144",
+    "@vx/hierarchy": "0.0.144",
+    "@vx/group": "0.0.143",
+    "@vx/gradient": "0.0.143"
+  }
+}

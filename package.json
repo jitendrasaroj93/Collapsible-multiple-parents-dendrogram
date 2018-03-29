@@ -1,0 +1,21 @@
+{
+  "name": "vx-link-examples",
+  "description": null,
+  "version": "0.0.261",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "react-scripts": "1.0.0",
+    "d3-hierarchy": "1.1.5",
+    "@vx/shape": "0.0.144",
+    "@vx/hierarchy": "0.0.144",
+    "@vx/group": "0.0.143"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Jitendra Kumar Saroj"
+}
